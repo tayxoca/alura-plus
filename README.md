@@ -4,7 +4,8 @@
 <p align="center">
 Página de treinamento do Curso "Html & CSS: Praticando CSS" da plataforma Alura.
 </p>
-> :construction: Projeto de ensino  :construction:
+
+<center>:construction: Projeto de ensino  :construction:</center>
 
 ## Autores
 
