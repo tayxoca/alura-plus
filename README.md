@@ -8,5 +8,5 @@ Página de treinamento do Curso "Html & CSS: Praticando CSS" da plataforma Alura
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Thais Hashimoto</sub>](https://github.com/tayxoca) 
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/81257251?v=4" width=115><br><sub>Thais Hashimoto</sub>](https://github.com/tayxoca) 
+| 
