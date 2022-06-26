@@ -5,7 +5,7 @@
 Página de treinamento do Curso "Html & CSS: Praticando CSS" da plataforma Alura.
 </p>
 
-<center>:construction: Projeto de ensino  :construction:</center>
+<p align="center">:construction: Projeto de ensino  :construction:</p>
 
 ## Autores
 
